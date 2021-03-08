@@ -2,6 +2,8 @@
 import os
 from cvmaker import CV
 
+# Sample CV (mine)
+
 def set_banner(cv):
     cv.set_photo("CV_photo.png")
     cv.set_name("Bruno M. Ronchi")

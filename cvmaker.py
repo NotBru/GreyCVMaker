@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import os
 
+# This is the script in question
+
 # TODO: fix href
 
 class CV:
