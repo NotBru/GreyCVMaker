@@ -14,7 +14,7 @@ def set_banner(cv):
     cv.add_id_data("Reallocation is a non-issue.")
 
 def add_IB_MSc(cv):
-    cv.add_text(CV().Text("Aug. 2019 - Feb. 2021,"
+    cv.add_text(CV().Text("Aug. 2019 - Feb. 2021, "
                             "in Balseiro Institute, Argentina", weight='bold'))
     cv.add_text(CV().Text("M.Sc. in Physics", weight='bold'))
     cv.tab()
@@ -41,7 +41,7 @@ def add_IB_MSc(cv):
     cv.step(2.5)
 
 def add_IB_BSc(cv):
-    cv.add_text(CV().Text("Aug. 2016 - Dec. 2020,"
+    cv.add_text(CV().Text("Aug. 2016 - Dec. 2020, "
                             "in Balseiro Institute, Argentina", weight='bold'))
     cv.add_text(CV().Text("B.Sc. in Physics", weight='bold'))
     cv.tab()
